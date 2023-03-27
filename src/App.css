@@ -1,0 +1,93 @@
+.container{
+  background-image: url("/public/Img/bg.jpg");
+  height: 100vh;
+}
+.navbar{
+  display: flex;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  justify-content: space-between;
+}
+
+.bar{
+  display:flex;
+  gap:30px
+}
+
+.get{
+  margin-left: auto;
+  background-color: blue;
+  color: white;
+  padding: 7px;
+}
+.login{
+  margin-left: auto;
+  margin-top: 15px;
+  padding: 6px;
+}
+
+
+.d{
+  margin-left:350px;
+  margin-top: 100px;
+  
+}
+.b{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-left:400px;
+  }
+  .l{
+    text-decoration: none;
+    color: blue;
+  }
+.container span{
+  color: blue;
+}
+.btn{
+  background-color: blue;
+  color: white;
+  margin-top: 25px;
+  margin-left:700px;
+  border: none;
+  padding: 6px;
+}
+.input{
+  padding: 7px;
+  margin-left:660px;
+  margin-top: 10px;
+  
+
+}
+.all{
+  display: flex;
+  /* justify-content: center; */
+  margin-top: 15px;
+  margin-left: 500px;
+  gap: 5px;
+  /* border-radius: 100px; */
+}
+.foot{
+  display: flex;
+  background-color: black;
+  padding: 30px;
+  margin-top: 290px;
+}
+.most{
+  display: flex;
+  gap: 20px;
+  margin-top: 20px;
+  
+}
+.btn1{
+  background-color: gray;
+  border: none;
+  padding: 6px;
+}
+.btn2{
+  background-color: blue;
+  padding: 6px;
+  border: none;
+  margin-left: 1099px;
+  color: white;
+}
